@@ -43,4 +43,11 @@
         tools:layout_editor_absoluteX="266dp"
         tools:layout_editor_absoluteY="447dp" />
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+    </LinearLayout>
 </android.support.constraint.ConstraintLayout>
