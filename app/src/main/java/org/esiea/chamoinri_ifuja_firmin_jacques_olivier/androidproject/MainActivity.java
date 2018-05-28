@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public class page_2 extends AppCompatActivity {
         protected void onCreate(Bundle savedInstanceState){
             super.onCreate(savedInstanceState);
-            setContentView(R.layout.page_2);
+
         }
 
         public void page2 (View view){
